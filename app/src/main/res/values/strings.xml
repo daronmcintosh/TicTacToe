@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="namePrompt">Name:</string>
+    <string name="nameHint">Enter your name here</string>
+    <string name="startGame">Start Game</string>
+    <string name="greeting">Hello %s</string>
+    <string name="gameState">Game Status: Playing</string>
+    <string name="turn">X turn</string>
+    <string name="restartGame">Restart Game</string>
+    <string name="userWon">Game Status: You won!</string>
+    <string name="computerWon">Game Status: Computer won!</string>
+    <string name="tie">"It's a TIE!"</string>
+    <string name="rules">Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a
+        paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3
+        grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or
+        diagonal row wins the game. If the player makes an invalid move, they lose their turn</string>
+</resources>
